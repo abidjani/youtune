@@ -1,0 +1,93 @@
+.footer_gray_bg2 {
+  background: #edd2d2 !important;
+}
+
+/* RESPONSIVE */
+@media only screen and (min-width: 993px) and (max-width: 1200px) {
+}
+
+@media only screen and (max-width: 992px) {
+  html {
+    font-size: 55.5%;
+  }
+
+  .mt_n3 {
+    margin-top: -0rem;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  html {
+    font-size: 45.5%;
+  }
+
+  .mt_n3 {
+    margin-top: -0rem;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  html {
+    font-size: 45.5%;
+  }
+
+  .employ_section {
+    padding: 0rem 1rem;
+    text-align: center;
+  }
+
+  .footer_heading {
+    font-size: 1.8rem;
+  }
+
+  .footer_heading1 {
+    font-size: 1.6rem;
+  }
+
+  .third_sec_heading {
+    font-size: 2rem;
+  }
+
+  .sec_sec_heading,
+  .sec_first_heading {
+    font-size: 2.4rem;
+  }
+
+  .gen_p {
+    font-size: 2rem;
+  }
+
+  .gen_p2 {
+    font-size: 2rem;
+  }
+
+  .employ_heading {
+    font-size: 2rem;
+  }
+
+  .better_sleep {
+    font-size: 2rem;
+  }
+
+  .employ_title {
+    font-size: 2rem;
+  }
+
+  .emp_routine {
+    font-size: 1.8rem;
+    font-weight: bold;
+  }
+
+  .mximwith {
+    max-width: 32rem;
+  }
+
+  .purple_text {
+    margin: 0rem 1.5rem;
+    font-size: 2rem;
+  }
+
+  .alpha_theta_image {
+    max-height: 34rem;
+  }
+}

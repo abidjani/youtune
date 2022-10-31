@@ -1,0 +1,148 @@
+body {
+  background: #f2f2f2 !important;
+}
+
+/* RESPONSIVE */
+@media only screen and (min-width: 993px) and (max-width: 1200px) {
+}
+
+@media only screen and (max-width: 992px) {
+  html {
+    font-size: 55.5%;
+  }
+
+  .top_bubble_img {
+    position: absolute;
+    max-width: 19rem;
+    margin-left: -4rem;
+  }
+
+  .bubble_right {
+    position: absolute;
+    right: -24rem;
+    top: 7rem;
+    max-width: 46rem;
+  }
+
+  .icons_row {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .beat_bg {
+    height: 30rem;
+    background: url(../images/business/beat_icon.png);
+    margin-top: 0rem;
+    background-size: 100% 100%;
+  }
+
+  .science_behind_section {
+    margin-top: -19rem;
+  }
+
+  .sci_behind_width {
+    max-width: 100%;
+    padding: 0rem 4rem;
+  }
+
+  .pl_8 {
+    width: 100%;
+    padding: 0rem 4rem;
+  }
+
+  .mt_n3 {
+    margin-top: 0;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  html {
+    font-size: 45.5%;
+  }
+
+  .top_bubble_img {
+    margin-left: -4rem;
+    max-width: 15rem;
+  }
+
+  .bubble_right {
+    display: none;
+  }
+
+  .pl_8 {
+    padding: 0rem 3rem;
+  }
+
+  .beat_bg {
+    display: none;
+  }
+
+  .science_behind_section {
+    margin-top: 1rem;
+  }
+
+  .sci_behind_width {
+    padding: 0rem 3rem;
+  }
+
+  .dis_card {
+    margin-top: 2rem !important;
+    margin-bottom: 2rem !important;
+  }
+
+  .disc_img {
+    width: 11rem;
+    height: 11rem;
+    padding: 1rem;
+  }
+
+  .disc_img img {
+    width: 7rem;
+    height: 7rem;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  html {
+    font-size: 45.5%;
+  }
+
+  .top_bubble_img {
+    margin-left: -4rem;
+    max-width: 15rem;
+  }
+
+  .mxw-80 {
+    max-width: 95%;
+  }
+
+  .pl_8 {
+    padding: 0rem 2rem;
+  }
+
+  .sci_behind_width {
+    padding: 0rem 2rem;
+  }
+
+  .pl_8 {
+    width: 100%;
+    margin: 0rem 0rem;
+  }
+
+  .footer_heading {
+    font-size: 1.8rem;
+  }
+
+  .footer_heading1 {
+    font-size: 1.6rem;
+  }
+
+  .gen_p, .team_p {
+    font-size: 2rem;
+  }
+
+  .purple_text {
+    margin: 0rem 1.5rem;
+    font-size: 2rem;
+  }
+}
